@@ -1,4 +1,8 @@
-## Hola, Soy Tristán Solar 👋
+<h1 align="center">Hola, Soy Tristán Solar 👋</h1>
+<p>
+  Estudiante de Ingeniería en Software y desarrollador apasionado por crear soluciones útiles. Me caracterizo por la constancia, la atención al detalle y el compromiso de llevar cada proyecto hasta su finalización.
+
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 
 <p align="center">
@@ -9,9 +13,10 @@
     ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- **Backendend**:
+- **Backend**:
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,7 +32,11 @@
    ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
    ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+- **Tools**:
 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 **TrzA191/TrzA191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
